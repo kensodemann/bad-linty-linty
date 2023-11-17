@@ -1,0 +1,7 @@
+{
+  "name": "bad-linty-linty",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
